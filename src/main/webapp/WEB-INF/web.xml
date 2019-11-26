@@ -10,7 +10,7 @@
 	
 	<servlet>
 		<servlet-name>front</servlet-name>
-		<servlet-class>org.chinook.controllers.FrontController</servlet-class>
+		<servlet-class>com.goncalves.controllers.FrontController</servlet-class>
 		<load-on-startup>1</load-on-startup>
 	</servlet>
 	
